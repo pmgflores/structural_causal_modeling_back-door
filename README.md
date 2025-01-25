@@ -14,7 +14,7 @@ The analysis follows these steps:
 5. Compute causal effects
 
 ## References
-Based on the blog post: ["Structural Causal Modeling"](http://pablomflores.com/structural-causal-modeling) by Pablo M. Flores.
+This repo contains the complementary materials of the post: ["Structural Causal Modeling"](http://pablomflores.com/structural-causal-modeling) by Pablo M. Flores.
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
